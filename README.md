@@ -1,2 +1,2 @@
 # hello-world
-w/e
+git clone https://github.com/t6x/reaver-wps-fork-t6x
